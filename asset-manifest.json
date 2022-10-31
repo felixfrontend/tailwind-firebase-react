@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwind-firebase-react/static/css/main.b935040c.css",
+    "main.js": "/tailwind-firebase-react/static/js/main.1a82d9ee.js",
+    "index.html": "/tailwind-firebase-react/index.html",
+    "main.b935040c.css.map": "/tailwind-firebase-react/static/css/main.b935040c.css.map",
+    "main.1a82d9ee.js.map": "/tailwind-firebase-react/static/js/main.1a82d9ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b935040c.css",
+    "static/js/main.1a82d9ee.js"
+  ]
+}
